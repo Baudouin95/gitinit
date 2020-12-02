@@ -1,2 +1,5 @@
-salut
+Salut
 je m'appel baudouin
+et j'habite au
+3 rue du fou
+75050 Paris 
